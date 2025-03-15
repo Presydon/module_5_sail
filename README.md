@@ -10,7 +10,7 @@ Easy to set up and run locally
 
 🛠️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/groq-chatbot.git
+git clone https://github.com/Presydon/module_5_sail.git
 cd groq-chatbot
 
 2️⃣ Install Dependencies
